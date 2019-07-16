@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Git的第一次操作:war exploded">
+    <output-path>$PROJECT_DIR$/../Git的第一次操作/out/artifacts/Git_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Git的第一次操作/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Git的第一次操作" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
